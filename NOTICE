@@ -1,0 +1,33 @@
+Skills collection
+Copyright 2026 the skills collection authors
+
+The skills in user/ (mirrored in private/, organization/ and plugins/) are
+licensed under the MIT License.
+See LICENSE.
+
+Third-party material
+--------------------
+examples/, public/ and plugin-files/ contain open-source skills from their
+original authors. Each keeps its own LICENSE.txt (Apache License 2.0) and
+remains under that licence and its authors' copyright.
+
+Anthropic's built-in skills
+---------------------------
+Several skills in user/ were written as alternatives to Anthropic's built-in
+skills for Claude (docx, xlsx, pptx, pdf, google-workspace, deep-research,
+morning, import-memory, chrome-browser, computer-use) and follow their ideas
+and workflows. Anthropic publishes its docx, xlsx, pptx and pdf skills under
+the Apache License 2.0.
+
+The motion-graphics skill was written from scratch. Its design was informed by
+public documentation of these projects; no code or text was copied from them:
+  HyperFrames (heygen-com/hyperframes, Apache-2.0)
+  Remotion (remotion-dev/remotion, Remotion licence) and remotion-dev/skills
+  iart-ai/motion-skills (MIT)
+  echris6/motion-video-kit (MIT)
+  adithya-s-k/manim_skill (MIT), Manim Community (MIT)
+  digitalsamba/claude-code-video-toolkit (MIT)
+  Motion Canvas (MIT)
+
+Font names mentioned in style presets are references only; no font files are
+distributed with the user/ skills.
